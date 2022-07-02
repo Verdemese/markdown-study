@@ -9,11 +9,9 @@
 
 ## **2.BlockQuote**
 > BlockQuote
-> same line quote
 > > new line blockQuote
 ```
 > BlockQuote
-> same quote section
 > > new line blockQuote
 ```
 
